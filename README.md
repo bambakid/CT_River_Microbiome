@@ -4,3 +4,4 @@ Ted Bambakidis, Byron C. Crump, Byungman Yoon, Ethan D. Kyzivat, Kelly S. Aho, C
 
 
 
+ <a href="https://github.com/bambakid/CT_River_Microbiome/blob/main/CT_16S_analysis.Rmd"> CT_16S_analysis.Rmd</a> - Here is the analytical pipeline we used for the 16S microbiome paper for the Connecticut River watershed.
